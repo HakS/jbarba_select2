@@ -1,9 +1,9 @@
 {
-  "name" : "select2",
+  "name" : "jbarba_select2",
   "description": "Browserify-ed version of Select2.",
   "homepage": "http://ivaynberg.github.io/select2",
   "author": "Igor Vaynberg",
-  "repository": {"type": "git", "url": "git://github.com/chrisjbaik/select2.git"},
+  "repository": {"type": "git", "url": "git://github.com/jbarba/jbarba_select2.git"},
   "version": "3.5.2-browserify",
   "jspm": {
     "main": "select2",
